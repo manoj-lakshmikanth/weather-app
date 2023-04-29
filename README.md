@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+To begin with the process on how the application runs:
+
+1. Weather app shows the information of minimum-maximum temperature, humidity, pressure, wind speed, weather condition and country.
+2. In the input field, enter the city name to get it's weather details and click OK.
+3. If the temperature of the city is less than 20°C backgound will be different and if it's above it will be different.
+4. If the city name is entered incorrectly, a pop will be poped from bottom of the screen saying "Please enter a valid city name!".
+5. The webpage is completely responsive. It is compatible for both desktop and mobile.
