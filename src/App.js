@@ -17,7 +17,7 @@ function App() {
 
     if (returnedData === 'error') {
       toast.warning('Please enter a valid city name!', {
-        position: toast.POSITION.BOTTOM_CENTER,
+        position: toast.POSITION.TOP_CENTER,
       });
     } else {
       setDataObj(returnedData);
